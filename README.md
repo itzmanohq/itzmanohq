@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Mano
 
-<!--
-**itzmanohq/itzmanohq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm an ECE student interested in software development, Artificial Intelligence,
+and building practical projects.
+
+- 🎓 Electronics & Communication Engineering
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+- 🚀 Project Building
+
+---
+
+## 🛠️ Skills
+
+### Programming
+`C` `C++` `Python` `Java`
+
+### Web
+`HTML` `CSS` `JavaScript`
+
+### Tools
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Life OS
+AI-powered personal life management system.
+
+### 📄 AI Resume Analyzer
+AI-powered resume analysis application.
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- AI / ML
+- Backend Development
+- Software Development
+
+---
+
+## 🎯 Goal
+
+> Learn continuously, build useful projects, and become a better developer.
+
+---
+
+<div align="center">
+
+### ⚡ BUILD • LEARN • IMPROVE
+
+</div>
