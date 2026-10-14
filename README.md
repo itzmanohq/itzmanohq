@@ -20,7 +20,7 @@ and building practical projects.
 ## 🛠️ Skills
 
 ### Programming
-`C` `C++` `Python` `Java`
+`C` `C++` `Python` `Java` `HTML`
 
 ### Web
 `HTML` `CSS` `JavaScript`
